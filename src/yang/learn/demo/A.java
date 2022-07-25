@@ -23,6 +23,7 @@ public class A {
         System.out.println("master test");
 
         System.out.println("hot-fix test");
+        System.out.println("push");
     }
     private static void updateList(List list) {
         list.remove(1);
