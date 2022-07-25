@@ -18,7 +18,7 @@ public class A {
         list.add(3);
         updateList(list);
         System.out.println(list);
-        System.out.println("版本2");
+        System.out.println("版本2.1");
 
 
     }
