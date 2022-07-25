@@ -24,6 +24,7 @@ public class A {
 
         System.out.println("hot-fix test");
         System.out.println("push");
+        System.out.println("pull");
     }
     private static void updateList(List list) {
         list.remove(1);
