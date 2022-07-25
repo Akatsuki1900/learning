@@ -22,6 +22,7 @@ public class A {
         System.out.println("正常合并");
         System.out.println("master test");
 
+        System.out.println("hot-fix test");
     }
     private static void updateList(List list) {
         list.remove(1);
