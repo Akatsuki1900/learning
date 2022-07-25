@@ -20,6 +20,7 @@ public class A {
         System.out.println(list);
         System.out.println("版本2.1");
         System.out.println("正常合并");
+        System.out.println("master test");
 
     }
     private static void updateList(List list) {
